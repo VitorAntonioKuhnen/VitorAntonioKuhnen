@@ -3,7 +3,12 @@
 - 🌱 Trabalho com as linguagens de programação, Java e Python e em banco de dados utilizo a linguagem SQL na plataforma do MySql.
 - Em alguns dos meus projetos utilizo o CRUD, Json e no meu ultimo utilizei uma ferramenta que efetua o envio de e-mails.
 
-<!---
-VitorAntonioKuhnen/VitorAntonioKuhnen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+          <h1><a href="https://www.linkedin.com/in/v%C3%ADtor-ant%C3%B4nio-kuhnen-592331170">Linkedin </a><h1>
+    </body>
+</html>
