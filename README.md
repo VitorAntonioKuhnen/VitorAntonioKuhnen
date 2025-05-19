@@ -1,7 +1,14 @@
-# 💫 Sobre Mim:
-👋 Ola, meu nome é Vítor Antônio Kuhnen<br>
-👀 Atualmente trabalho como Desenvolvedor FullStack na Liderança Serviços, estou estudando para um dia me tornar um grande profissional da minha área, Desde meus 14 anos sonhava em trabalhar com tecnologia.<br>
--🌱 Fora do trabalho... Sou uma pessoa apaixonada pela natureza, amo acampar, nadar, fazer trilhas, viajar, assistir filmes e series e claro jogar
+# 💻 Vítor Antônio Kuhnen | Desenvolvedor FullStack & QA
+
+## 👨💻 Sobre Mim
+Profissional multidisciplinar com <b>4 anos de experiência</b> em desenvolvimento de software, atuando em:
+- <b>Analista de Teste (QA)</b> na Deltacon: Especializado em testes de sistemas ERP e documentação fiscal
+- <b>Desenvolvimento FullStack</b>: Domínio em Delphi, Python, Java e JavaScript
+- <b>Gestão de Projetos</b>: Experiência com metodologias ágeis e coordenação de equipes
+
+<b>Formação Acadêmica:</b>
+- Pós-graduando em Inteligência Artificial e Machine Learning (2024-2025)
+- Graduado em Análise e Desenvolvimento de Sistemas pelo Senac SC
 
 
 ## 🌐 Redes Sociais:
