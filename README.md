@@ -66,9 +66,5 @@ Profissional multidisciplinar com <b>4 anos de experiência</b> em desenvolvimen
         color: #fff;">- Bill Gates</p>
 </div>
 
-
-### 😂 Meme
-<img src="https://media.licdn.com/dms/image/C4D22AQEbK8XZqy9MYA/feedshare-shrink_1280/0/1667584870682?e=1674086400&v=beta&t=4x2QRKMwuoZ_KOuji6SEu0uT7xyFX1gWLOnkXf69DrM" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=VitorAntonioKuhnen&icon=0&color=6)](https://visitcount.itsvg.in)
